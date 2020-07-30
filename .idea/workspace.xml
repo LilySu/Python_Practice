@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation1_July29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Recitation1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,32 +17,34 @@
     <session id="933258272">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="13" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="10458" />
+          <entry key="py" value="14780" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="8907" />
+          <entry key="Python" value="13229" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -50,47 +52,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Workbook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-              <folding>
-                <marker date="1595871715670" expanded="true" signature="659:665" ph="..." />
-                <marker date="1595871715670" expanded="true" signature="686:782" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_ScratchPad.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <marker date="1595952780751" expanded="true" signature="15:20" ph="..." />
-                <marker date="1595952780751" expanded="true" signature="247:381" ph="..." />
-                <marker date="1595952780751" expanded="true" signature="665:670" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_ScrapPad.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-              <folding>
-                <marker date="1595956864728" expanded="true" signature="15:20" ph="..." />
-                <marker date="1595956864728" expanded="true" signature="247:381" ph="..." />
-                <marker date="1595956864728" expanded="true" signature="664:1007" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -148,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Recitation1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+            <state relative-caret-position="1512">
+              <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
               <folding>
                 <marker date="1596034777656" expanded="true" signature="15:20" ph="..." />
                 <marker date="1596034777656" expanded="true" signature="144:175" ph="..." />
@@ -159,17 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation1_July29.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-start-column="2" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <marker date="1596041709514" expanded="true" signature="176:238" ph="..." />
-                <marker date="1596041709514" expanded="true" signature="253:258" ph="..." />
-                <marker date="1596041709514" expanded="true" signature="362:368" ph="..." />
-                <marker date="1596041709514" expanded="true" signature="896:901" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -177,10 +132,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+            <state relative-caret-position="924">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
               <folding>
                 <marker date="1596037860041" expanded="false" signature="16:21" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1596128759950" expanded="true" signature="128:133" ph="..." />
+                <marker date="1596128759950" expanded="true" signature="559:645" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <marker date="1596130022349" expanded="true" signature="19:24" ph="..." />
+                <marker date="1596130022349" expanded="true" signature="144:249" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <marker date="1596131434123" expanded="true" signature="11:16" ph="..." />
+                <marker date="1596131434123" expanded="true" signature="116:121" ph="..." />
+                <marker date="1596131434123" expanded="true" signature="438:598" ph="..." />
               </folding>
             </state>
           </provider>
@@ -212,16 +207,19 @@
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Final_Review_July_28.py" />
         <option value="$PROJECT_DIR$/Linked_List_Practice.py" />
         <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Recitation1.py" />
-        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py" />
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation1_July29.py" />
+        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py" />
+        <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" />
+        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" />
+        <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1930" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1063" />
+    <option name="y" value="120" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,6 +229,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,12 +250,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$USER_HOME$/Kaggle_OSIC" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -276,8 +275,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Binary_Tree_Recitation1_July29">
-    <configuration name="Binary_Tree_Final_Review_July_28" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Linked_List_Practice_July_30">
+    <configuration name="Binary_Tree_Practice_July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +288,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Final_Review_July_28.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary_Tree_Recite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Hash_Table_Practice_July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,11 +326,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Trees_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash_Table_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,7 +360,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked_List_Recitation1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Linked_List_Practice_July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,7 +372,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Recitation1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,19 +382,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binary_Tree_Recite" />
-      <item itemvalue="Python.Binary_Tree_Final_Review_July_28" />
-      <item itemvalue="Python.Linked_List_Recitation1" />
       <item itemvalue="Python.Hash_Table_Recitation1" />
       <item itemvalue="Python.Binary_Tree_Recitation1_July29" />
+      <item itemvalue="Python.Binary_Tree_Practice_July_30" />
+      <item itemvalue="Python.Hash_Table_Practice_July_30" />
+      <item itemvalue="Python.Linked_List_Practice_July_30" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Linked_List_Practice_July_30" />
+        <item itemvalue="Python.Hash_Table_Practice_July_30" />
+        <item itemvalue="Python.Binary_Tree_Practice_July_30" />
         <item itemvalue="Python.Binary_Tree_Recitation1_July29" />
         <item itemvalue="Python.Hash_Table_Recitation1" />
-        <item itemvalue="Python.Linked_List_Recitation1" />
-        <item itemvalue="Python.Binary_Tree_Final_Review_July_28" />
-        <item itemvalue="Python.Binary_Tree_Recite" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +480,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_Trees_Workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <marker date="1595871715670" expanded="true" signature="659:665" ph="..." />
+            <marker date="1595871715670" expanded="true" signature="686:782" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_ScratchPad.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -493,25 +503,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Binary_Trees_Workbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <marker date="1595871715670" expanded="true" signature="659:665" ph="..." />
-            <marker date="1595871715670" expanded="true" signature="686:782" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_ScrapPad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="756">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <marker date="1595956864728" expanded="true" signature="15:20" ph="..." />
             <marker date="1595956864728" expanded="true" signature="247:381" ph="..." />
-            <marker date="1595956864728" expanded="true" signature="664:1007" ph="..." />
           </folding>
         </state>
       </provider>
@@ -562,20 +560,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
-          <folding>
-            <marker date="1596037860041" expanded="false" signature="16:21" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Recitation1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        <state relative-caret-position="1512">
+          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
           <folding>
             <marker date="1596034777656" expanded="true" signature="15:20" ph="..." />
             <marker date="1596034777656" expanded="true" signature="144:175" ph="..." />
@@ -588,11 +576,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-start-column="2" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
-            <marker date="1596041709514" expanded="true" signature="176:238" ph="..." />
-            <marker date="1596041709514" expanded="true" signature="253:258" ph="..." />
-            <marker date="1596041709514" expanded="true" signature="362:368" ph="..." />
-            <marker date="1596041709514" expanded="true" signature="896:901" ph="..." />
+            <marker date="1596037860041" expanded="false" signature="16:21" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1596131434123" expanded="true" signature="11:16" ph="..." />
+            <marker date="1596131434123" expanded="true" signature="116:121" ph="..." />
+            <marker date="1596131434123" expanded="true" signature="438:598" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1596130022349" expanded="true" signature="19:24" ph="..." />
+            <marker date="1596130022349" expanded="true" signature="144:249" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1596128759950" expanded="true" signature="128:133" ph="..." />
+            <marker date="1596128759950" expanded="true" signature="559:645" ph="..." />
           </folding>
         </state>
       </provider>
