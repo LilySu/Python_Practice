@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_July_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiprocessing/ConcurrentFutures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiprocessing/Multiprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiprocessing/process-images-example-July_30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type_Hints/Typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Type_Hints/notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,25 +32,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="notes" value="1" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="13" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="21" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="14780" />
+          <entry key="notes" value="307" />
+          <entry key="py" value="20933" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="13229" />
+          <entry key="PLAIN_TEXT" value="319" />
+          <entry key="Python" value="19382" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -53,99 +62,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <marker date="1595958108759" expanded="true" signature="15:20" ph="..." />
-                <marker date="1595958108759" expanded="true" signature="647:652" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recall.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding>
-                <marker date="1595958857103" expanded="true" signature="15:20" ph="..." />
-                <marker date="1595958857103" expanded="true" signature="375:381" ph="..." />
-                <marker date="1595958857103" expanded="true" signature="667:672" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <marker date="1595960713777" expanded="true" signature="15:20" ph="..." />
-                <marker date="1595960713777" expanded="true" signature="247:381" ph="..." />
-                <marker date="1595960713777" expanded="true" signature="704:705" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Final_Review_July_28.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding>
-                <marker date="1595961166785" expanded="true" signature="15:20" ph="..." />
-                <marker date="1595961166785" expanded="true" signature="784:789" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Recitation1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-              <folding>
-                <marker date="1596034777656" expanded="true" signature="15:20" ph="..." />
-                <marker date="1596034777656" expanded="true" signature="144:175" ph="..." />
-                <marker date="1596034777656" expanded="true" signature="505:665" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation1_July29.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-start-column="2" selection-end-line="8" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-              <folding>
-                <marker date="1596037860041" expanded="false" signature="16:21" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="168">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <marker date="1596128759950" expanded="true" signature="128:133" ph="..." />
                 <marker date="1596128759950" expanded="true" signature="559:645" ph="..." />
@@ -155,27 +75,110 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py">
+        <entry file="file://$PROJECT_DIR$/Multiprocessing/Multiprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="41" selection-end-column="61" />
               <folding>
-                <marker date="1596130022349" expanded="true" signature="19:24" ph="..." />
-                <marker date="1596130022349" expanded="true" signature="144:249" ph="..." />
+                <element signature="e#0#22#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py">
+        <entry file="file://$PROJECT_DIR$/Multiprocessing/ConcurrentFutures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="167">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="26" />
               <folding>
-                <marker date="1596131434123" expanded="true" signature="11:16" ph="..." />
-                <marker date="1596131434123" expanded="true" signature="116:121" ph="..." />
-                <marker date="1596131434123" expanded="true" signature="438:598" ph="..." />
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Multiprocessing/process-images-example-July_30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Type_Hints/notes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Type_Hints/Typing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+              <folding>
+                <marker date="1596145549171" expanded="true" signature="840:907" ph="..." />
+                <marker date="1596145549171" expanded="true" signature="1018:1349" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_July_31.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+              <folding>
+                <marker date="1596220885642" expanded="true" signature="15:20" ph="..." />
+                <marker date="1596220885642" expanded="true" signature="150:306" ph="..." />
+                <marker date="1596220885642" expanded="true" signature="693:698" ph="..." />
+                <marker date="1596220885642" expanded="true" signature="862:867" ph="..." />
+                <marker date="1596220885642" expanded="true" signature="948:953" ph="..." />
+                <marker date="1596220885642" expanded="true" signature="1033:1038" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_31.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+              <folding>
+                <marker date="1596217736849" expanded="true" signature="11:16" ph="..." />
+                <marker date="1596217736849" expanded="true" signature="116:121" ph="..." />
+                <marker date="1596217736849" expanded="true" signature="588:662" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <marker date="1596216378643" expanded="true" signature="16:21" ph="..." />
               </folding>
             </state>
           </provider>
@@ -212,12 +215,21 @@
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" />
         <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" />
         <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" />
+        <option value="$PROJECT_DIR$/Multiprocessing/Multiprocessing.py" />
+        <option value="$PROJECT_DIR$/Multiprocessing/ConcurrentFutures.py" />
+        <option value="$PROJECT_DIR$/Multiprocessing/process-images-example-July_30.py" />
+        <option value="$PROJECT_DIR$/Type_Hints/notes" />
+        <option value="$PROJECT_DIR$/Type_Hints/Typing.py" />
+        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py" />
+        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31_2.py" />
+        <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_31.py" />
+        <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_July_31.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1930" />
-    <option name="y" value="120" />
+    <option name="x" value="-2009" />
+    <option name="y" value="2" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -239,11 +251,6 @@
             </path>
             <path>
               <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Linked_List_Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -255,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$USER_HOME$/Kaggle_OSIC" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -275,8 +282,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Linked_List_Practice_July_30">
-    <configuration name="Binary_Tree_Practice_July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Hash_Table_Practice_July_31">
+    <configuration name="Binary_Trees_Practice_July_31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_July_31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary_Tree_Recitation1_July29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ConcurrentFutures" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,11 +312,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Trees_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multiprocessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Recitation1_July29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiprocessing/ConcurrentFutures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,28 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hash_Table_Practice_July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash_Table_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Hash_Table_Recitation1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Hash_Table_Practice_July_31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,7 +337,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Recitation1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked_List_Practice_July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Typing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,11 +354,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_List_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Type_Hints" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Type_Hints/Typing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process-images-example-July_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multiprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiprocessing/process-images-example-July_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,19 +389,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Hash_Table_Recitation1" />
-      <item itemvalue="Python.Binary_Tree_Recitation1_July29" />
-      <item itemvalue="Python.Binary_Tree_Practice_July_30" />
-      <item itemvalue="Python.Hash_Table_Practice_July_30" />
-      <item itemvalue="Python.Linked_List_Practice_July_30" />
+      <item itemvalue="Python.ConcurrentFutures" />
+      <item itemvalue="Python.process-images-example-July_30" />
+      <item itemvalue="Python.Typing" />
+      <item itemvalue="Python.Binary_Trees_Practice_July_31" />
+      <item itemvalue="Python.Hash_Table_Practice_July_31" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Linked_List_Practice_July_30" />
-        <item itemvalue="Python.Hash_Table_Practice_July_30" />
-        <item itemvalue="Python.Binary_Tree_Practice_July_30" />
-        <item itemvalue="Python.Binary_Tree_Recitation1_July29" />
-        <item itemvalue="Python.Hash_Table_Recitation1" />
+        <item itemvalue="Python.Hash_Table_Practice_July_31" />
+        <item itemvalue="Python.Binary_Trees_Practice_July_31" />
+        <item itemvalue="Python.Typing" />
+        <item itemvalue="Python.process-images-example-July_30" />
+        <item itemvalue="Python.ConcurrentFutures" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +433,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891247" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -592,7 +599,7 @@
     <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding>
             <marker date="1596131434123" expanded="true" signature="11:16" ph="..." />
             <marker date="1596131434123" expanded="true" signature="116:121" ph="..." />
@@ -604,7 +611,7 @@
     <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <marker date="1596130022349" expanded="true" signature="19:24" ph="..." />
             <marker date="1596130022349" expanded="true" signature="144:249" ph="..." />
@@ -614,11 +621,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="168">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <marker date="1596128759950" expanded="true" signature="128:133" ph="..." />
             <marker date="1596128759950" expanded="true" signature="559:645" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiprocessing/Multiprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="41" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiprocessing/ConcurrentFutures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiprocessing/process-images-example-July_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Type_Hints/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Type_Hints/Typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+          <folding>
+            <marker date="1596145549171" expanded="true" signature="840:907" ph="..." />
+            <marker date="1596145549171" expanded="true" signature="1018:1349" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1596216378643" expanded="true" signature="16:21" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <marker date="1596217736849" expanded="true" signature="11:16" ph="..." />
+            <marker date="1596217736849" expanded="true" signature="116:121" ph="..." />
+            <marker date="1596217736849" expanded="true" signature="588:662" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_July_31.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <marker date="1596220885642" expanded="true" signature="15:20" ph="..." />
+            <marker date="1596220885642" expanded="true" signature="150:306" ph="..." />
+            <marker date="1596220885642" expanded="true" signature="693:698" ph="..." />
+            <marker date="1596220885642" expanded="true" signature="862:867" ph="..." />
+            <marker date="1596220885642" expanded="true" signature="948:953" ph="..." />
+            <marker date="1596220885642" expanded="true" signature="1033:1038" ph="..." />
           </folding>
         </state>
       </provider>

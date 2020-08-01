@@ -1,0 +1,12 @@
+type hints are good for:
+catching errors
+documenting code
+improves functionality for IDE and linters
+maintains cleaner architecture
+
+
+Type hints do take more time to enter code
+works best in modern python after 3 or 3.6, 3.7
+introduce a slight penalty on startup
+
+Should be used whenever 
