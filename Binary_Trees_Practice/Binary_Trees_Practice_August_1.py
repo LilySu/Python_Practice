@@ -20,7 +20,7 @@ class TreeNode:
         spaces = ' ' * self.get_level()
         prefix = spaces + '|__' if self.parent else '|'
         print(prefix + self.data)
-        while len(self.children) > 0:
+        if self.children:
             for child in self.children:
                 return child.print_tree()
 
