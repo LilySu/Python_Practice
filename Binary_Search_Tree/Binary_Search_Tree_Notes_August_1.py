@@ -40,7 +40,7 @@ class Tree:
         if val < self.data:
             # val might be in left subtree
             if self.left: # do I have any content on the left
-                self.left.search(val)
+                return self.left.search(val)
             else: # if no value exists in tree
                 return False
         if val > self.data:
@@ -49,6 +49,40 @@ class Tree:
                 return self.right.search(val)
             else:
                 return False
+
+    def find_max(self):
+        if self.right is None: # if no more to the right, return value
+            return self.data
+        return self.right.find_max() # otherwise keep on going to the right
+
+    def find_min(self):
+        if self.left is None:
+            return self.data
+        return self.left.find_min()
+
+    def delete(self, val):
+        if val < self.data:
+            if self.left:
+                self.left = self.left.delete(val)
+        elif val > self.data:
+            if self.right:
+                self.right = self.right.delete(val)
+                # if nothing in the left
+                # else:
+                #     return None, is automatic
+        else:
+            if self.left is None and self.right is None:
+                return None
+            if self.left is None:
+                return self.right
+            if self.right is None:
+                return self.right
+
+            min_val = self.right.find_min()
+            self.data = min_val
+            self.right = self.right.delete(min_val) # returns right subtree when on delete
+        return self
+
 
 def build_tree(elements):
     root = Tree(elements[0])
@@ -59,5 +93,9 @@ def build_tree(elements):
 if __name__ == '__main__':
     numbers = [17, 4, 1, 20, 9, 23, 18, 34]
     t = build_tree(numbers)
-    # print(t.in_order_traversal())
-    print(t.search(20))
+    print(t.in_order_traversal())
+    # print(t.search(20))
+
+    t.delete(4)
+    print(t.in_order_traversal())
+
