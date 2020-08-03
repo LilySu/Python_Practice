@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary_Trees_Workbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Workbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +25,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="notes" value="1" />
-          <entry key="py" value="28" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="26" />
+          <entry key="Python" value="27" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -39,13 +39,13 @@
         <counts>
           <entry key="dummy" value="21" />
           <entry key="notes" value="307" />
-          <entry key="py" value="26386" />
+          <entry key="py" value="28166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="328" />
-          <entry key="Python" value="24835" />
+          <entry key="Python" value="26615" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -53,15 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Type_Hints/notes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Type_Hints/Typing.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -166,7 +157,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1232">
@@ -179,6 +170,30 @@
                 <marker date="1596311058737" expanded="true" signature="731:751" ph="..." />
                 <marker date="1596311058737" expanded="true" signature="731:753" ph="..." />
                 <marker date="1596311058737" expanded="true" signature="2726:2847" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <marker date="1596421854427" expanded="true" signature="369:374" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1110" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1115" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1118" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1123" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1126" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1129" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1132" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1134" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1138" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1145" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1104:1148" ph="..." />
+                <marker date="1596421854427" expanded="true" signature="1962:2101" ph="..." />
               </folding>
             </state>
           </provider>
@@ -234,12 +249,13 @@
         <option value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes.py" />
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_August_1.py" />
         <option value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_1.py" />
+        <option value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1949" />
-    <option name="y" value="-10" />
+    <option name="x" value="-2099" />
+    <option name="y" value="55" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -298,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Binary_Search_Tree_Notes_August_1">
+  <component name="RunManager" selected="Python.Binary_Search_Tree_Notes_August_2">
     <configuration name="Binary_Search_Tree_Notes_August_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,6 +328,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Binary_Search_Tree_Notes_August_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,27 +399,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hash_Table_Practice_July_31" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash_Table_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Linked_List_Practice_August_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -405,19 +421,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Hash_Table_Practice_July_31" />
       <item itemvalue="Python.Linked_List_Practice_August_1" />
       <item itemvalue="Python.Hash_Table_Practice_August_1" />
       <item itemvalue="Python.Binary_Trees_Practice_August_1" />
       <item itemvalue="Python.Binary_Search_Tree_Notes_August_1" />
+      <item itemvalue="Python.Binary_Search_Tree_Notes_August_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Binary_Search_Tree_Notes_August_2" />
         <item itemvalue="Python.Binary_Search_Tree_Notes_August_1" />
         <item itemvalue="Python.Binary_Trees_Practice_August_1" />
         <item itemvalue="Python.Hash_Table_Practice_August_1" />
         <item itemvalue="Python.Linked_List_Practice_August_1" />
-        <item itemvalue="Python.Hash_Table_Practice_July_31" />
       </list>
     </recent_temporary>
   </component>
@@ -783,6 +799,28 @@
             <marker date="1596311058737" expanded="true" signature="731:751" ph="..." />
             <marker date="1596311058737" expanded="true" signature="731:753" ph="..." />
             <marker date="1596311058737" expanded="true" signature="2726:2847" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes_August_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1596421854427" expanded="true" signature="369:374" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1110" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1115" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1118" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1123" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1126" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1129" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1132" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1134" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1138" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1145" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1104:1148" ph="..." />
+            <marker date="1596421854427" expanded="true" signature="1962:2101" ph="..." />
           </folding>
         </state>
       </provider>
