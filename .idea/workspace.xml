@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Little_Exercises/Elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Little_Exercises/Elevator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,13 +27,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="notes" value="1" />
-          <entry key="py" value="91" />
+          <entry key="py" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="89" />
+          <entry key="Python" value="90" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -41,13 +41,13 @@
         <counts>
           <entry key="dummy" value="22" />
           <entry key="notes" value="307" />
-          <entry key="py" value="58381" />
+          <entry key="py" value="59616" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="329" />
-          <entry key="Python" value="56830" />
+          <entry key="Python" value="58065" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -55,18 +55,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_August_20.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <marker date="1597944409678" expanded="true" signature="10:15" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_August_21.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,14 +88,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP_Little_Exercises/Elevator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="924">
+              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
               <folding>
-                <marker date="1598673279487" expanded="true" signature="485:486" ph="..." />
+                <marker date="1598752440574" expanded="true" signature="779:1712" ph="..." />
+                <marker date="1598752440574" expanded="true" signature="1305:1311" ph="..." />
+                <marker date="1598752440574" expanded="true" signature="1710:1711" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP_Little_Exercises/Elevator_Detail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -196,7 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Practice_July_30.py" />
         <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_30.py" />
         <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_30.py" />
         <option value="$PROJECT_DIR$/Multiprocessing/Multiprocessing.py" />
@@ -247,10 +245,11 @@
         <option value="$PROJECT_DIR$/Binary_Search/resnets_utils.py" />
         <option value="$PROJECT_DIR$/OOP_Circles/Circles.py" />
         <option value="$PROJECT_DIR$/OOP_Little_Exercises/Elevator.py" />
+        <option value="$PROJECT_DIR$/OOP_Little_Exercises/Elevator_Detail.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1930" />
     <option name="y" value="-10" />
     <option name="width" value="1939" />
@@ -306,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Circles">
+  <component name="RunManager" selected="Python.Elevator">
     <configuration name="Binary_Search_Practice_August_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,27 +319,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Binary_Search_Tree_Practice_August_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_August_20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,20 +390,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Elevator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Little_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Little_Exercises/Elevator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Binary_Search_Tree_Practice_August_20" />
       <item itemvalue="Python.Binary_Tree_Practice_August_21" />
       <item itemvalue="Python.Binary_Search_Tree_Practice_August_21" />
       <item itemvalue="Python.Binary_Search_Practice_August_21" />
       <item itemvalue="Python.Circles" />
+      <item itemvalue="Python.Elevator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Elevator" />
         <item itemvalue="Python.Circles" />
         <item itemvalue="Python.Binary_Search_Practice_August_21" />
         <item itemvalue="Python.Binary_Search_Tree_Practice_August_21" />
         <item itemvalue="Python.Binary_Tree_Practice_August_21" />
-        <item itemvalue="Python.Binary_Search_Tree_Practice_August_20" />
       </list>
     </recent_temporary>
   </component>
@@ -451,13 +450,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25066313" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25066313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40450928" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891247" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32891247" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -514,13 +513,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Type_Hints/notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Type_Hints/Typing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -910,11 +902,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP_Little_Exercises/Elevator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="924">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding>
-            <marker date="1598673279487" expanded="true" signature="485:486" ph="..." />
+            <marker date="1598752440574" expanded="true" signature="779:1712" ph="..." />
+            <marker date="1598752440574" expanded="true" signature="1305:1311" ph="..." />
+            <marker date="1598752440574" expanded="true" signature="1710:1711" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Little_Exercises/Elevator_Detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
