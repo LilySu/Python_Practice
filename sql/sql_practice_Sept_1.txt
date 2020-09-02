@@ -1,0 +1,4 @@
+
+delete * from table
+group by columns
+having count(*) > 1
