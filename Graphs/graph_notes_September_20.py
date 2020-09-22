@@ -14,14 +14,25 @@ class Graph:
         if start == end:
             return [path]
 
+        if start not in self.graph_dict:
+            return []
+
+        paths = []
+        for node in self.graph_dict[start]:
+            if node not in path: # if this destination has been visited it will be in path
+                new_paths = self.get_paths(node, end, path)
+                for p in new_paths:
+                    paths.append(p)
+        return paths
+
 if __name__ == '__main__':
     routes = [("Mumbai", "Paris"),
               ("Mumbai", "Dubai"),
               ("Paris", "Dubai"),
               ("Paris", "New York"),
               ("Dubai", "New York"),
-              ("New York", "Paris"),]
+              ("New York", "Toronto"),]
     route_graph = Graph(routes)
     start = "Mumbai"
-    end = "Mumbai"
+    end = "New York"
     print(f"Paths between {start} and {end}:", route_graph.get_paths(start, end))
