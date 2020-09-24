@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_September_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Priority_Queue/Priority_Queue_Practice_September_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selection_Sort/Selection_Sort_Practice_September_22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,13 +31,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="notes" value="1" />
-          <entry key="py" value="110" />
+          <entry key="py" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="108" />
+          <entry key="Python" value="111" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -43,13 +45,13 @@
         <counts>
           <entry key="dummy" value="22" />
           <entry key="notes" value="307" />
-          <entry key="py" value="63572" />
+          <entry key="py" value="64993" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="329" />
-          <entry key="Python" value="62021" />
+          <entry key="Python" value="63442" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -57,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Tree_Final_Review_July_28.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Lecture_Recitation_August_18_3.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,36 +80,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state>
+              <caret lean-forward="true" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Workbook.py">
+        <entry file="file://$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_September_22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-              <folding>
-                <marker date="1595871715670" expanded="true" signature="659:665" ph="..." />
-                <marker date="1595871715670" expanded="true" signature="686:782" ph="..." />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_August_21.py">
+        <entry file="file://$PROJECT_DIR$/Selection_Sort/Selection_Sort_Practice_September_22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-              <folding>
-                <marker date="1599192756136" expanded="true" signature="23:28" ph="..." />
-              </folding>
+            <state relative-caret-position="84">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Priority_Queue/Priority_Queue_Practice_September_23.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -178,9 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py" />
-        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31_2.py" />
-        <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_July_31.py" />
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_July_31.py" />
         <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_August_1.py" />
         <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_August_1.py" />
@@ -228,7 +220,10 @@
         <option value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_August_21.py" />
         <option value="$PROJECT_DIR$/Binary_Search_Tree/Invert_Binary_Tree_Practice_Sept_3.py" />
         <option value="$PROJECT_DIR$/Graphs/graph_notes_September_20.py" />
+        <option value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_September_22.py" />
         <option value="$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_22.py" />
+        <option value="$PROJECT_DIR$/Selection_Sort/Selection_Sort_Practice_September_22.py" />
+        <option value="$PROJECT_DIR$/Priority_Queue/Priority_Queue_Practice_September_23.py" />
       </list>
     </option>
   </component>
@@ -289,8 +284,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bubble_sort_Practice_September_22">
-    <configuration name="Hash_Table_Practice_August_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Priority_Queue_Practice_September_23">
+    <configuration name="Insertion_Sort_Practice_September_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash_Table_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Insertion_Sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_August_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_September_22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Invert_Binary_Tree_Practice_Sept_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Priority_Queue_Practice_September_23" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,11 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Priority_Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Invert_Binary_Tree_Practice_Sept_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Priority_Queue/Priority_Queue_Practice_September_23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked_List_Practice_August_30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Selection_Sort_Practice_September_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,11 +335,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_List_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selection_Sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_August_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selection_Sort/Selection_Sort_Practice_September_22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,19 +391,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Linked_List_Practice_August_30" />
-      <item itemvalue="Python.Hash_Table_Practice_August_30" />
-      <item itemvalue="Python.Invert_Binary_Tree_Practice_Sept_3" />
       <item itemvalue="Python.graph_notes_September_20" />
       <item itemvalue="Python.bubble_sort_Practice_September_22" />
+      <item itemvalue="Python.Insertion_Sort_Practice_September_22" />
+      <item itemvalue="Python.Selection_Sort_Practice_September_22" />
+      <item itemvalue="Python.Priority_Queue_Practice_September_23" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Priority_Queue_Practice_September_23" />
+        <item itemvalue="Python.Selection_Sort_Practice_September_22" />
+        <item itemvalue="Python.Insertion_Sort_Practice_September_22" />
         <item itemvalue="Python.bubble_sort_Practice_September_22" />
         <item itemvalue="Python.graph_notes_September_20" />
-        <item itemvalue="Python.Invert_Binary_Tree_Practice_Sept_3" />
-        <item itemvalue="Python.Hash_Table_Practice_August_30" />
-        <item itemvalue="Python.Linked_List_Practice_August_30" />
       </list>
     </recent_temporary>
   </component>
@@ -497,27 +492,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_August_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_August_11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_July_31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_August_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -854,10 +828,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_September_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_22.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret lean-forward="true" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selection_Sort/Selection_Sort_Practice_September_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Priority_Queue/Priority_Queue_Practice_September_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
