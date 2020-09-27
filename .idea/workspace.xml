@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_25" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Abstractmethods/abstractmethod_Practice_September_26.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +29,13 @@
         <counts>
           <entry key="bubble_sort_Practice_September_25" value="1" />
           <entry key="notes" value="1" />
-          <entry key="py" value="113" />
+          <entry key="py" value="114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="112" />
+          <entry key="Python" value="113" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -45,13 +44,13 @@
           <entry key="bubble_sort_Practice_September_25" value="243" />
           <entry key="dummy" value="22" />
           <entry key="notes" value="307" />
-          <entry key="py" value="64993" />
+          <entry key="py" value="65180" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="329" />
-          <entry key="Python" value="63685" />
+          <entry key="Python" value="63872" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -59,18 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graphs/graph_notes_September_20.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-              <folding>
-                <marker date="1600744956683" expanded="true" signature="12:17" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_22.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +94,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_25">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP_Abstractmethods/abstractmethod_Practice_September_26.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <marker date="1601177635164" expanded="true" signature="54:59" ph="..." />
+                <marker date="1601177635164" expanded="true" signature="137:142" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_August_1.py" />
         <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_August_1.py" />
         <option value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Notes.py" />
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_August_1.py" />
@@ -224,6 +223,7 @@
         <option value="$PROJECT_DIR$/Selection_Sort/Selection_Sort_Practice_September_22.py" />
         <option value="$PROJECT_DIR$/Priority_Queue/Priority_Queue_Practice_September_23.py" />
         <option value="$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_25" />
+        <option value="$PROJECT_DIR$/OOP_Abstractmethods/abstractmethod_Practice_September_26.py" />
       </list>
     </option>
   </component>
@@ -247,11 +247,6 @@
             <path>
               <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Bubble_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -289,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Priority_Queue_Practice_September_23">
+  <component name="RunManager" selected="Python.abstractmethod_Practice_September_26">
     <configuration name="Insertion_Sort_Practice_September_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,6 +348,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="abstractmethod_Practice_September_26" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Abstractmethods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Abstractmethods/abstractmethod_Practice_September_26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bubble_sort_Practice_September_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -374,41 +390,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="graph_notes_September_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/graph_notes_September_20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.graph_notes_September_20" />
       <item itemvalue="Python.bubble_sort_Practice_September_22" />
       <item itemvalue="Python.Insertion_Sort_Practice_September_22" />
       <item itemvalue="Python.Selection_Sort_Practice_September_22" />
       <item itemvalue="Python.Priority_Queue_Practice_September_23" />
+      <item itemvalue="Python.abstractmethod_Practice_September_26" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.abstractmethod_Practice_September_26" />
         <item itemvalue="Python.Priority_Queue_Practice_September_23" />
         <item itemvalue="Python.Selection_Sort_Practice_September_22" />
         <item itemvalue="Python.Insertion_Sort_Practice_September_22" />
         <item itemvalue="Python.bubble_sort_Practice_September_22" />
-        <item itemvalue="Python.graph_notes_September_20" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +424,7 @@
     <frame x="-8" y="-8" width="1618" height="887" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21329114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21329114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -497,7 +492,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/Y_train_for_CNN_200.py" />
     <entry file="file://$PROJECT_DIR$/Graph_Adjacency/Graph_Notes_Pluralsight_August_17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -850,7 +844,18 @@
     <entry file="file://$PROJECT_DIR$/Bubble_Sort/bubble_sort_Practice_September_25">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Abstractmethods/abstractmethod_Practice_September_26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <marker date="1601177635164" expanded="true" signature="54:59" ph="..." />
+            <marker date="1601177635164" expanded="true" signature="137:142" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
