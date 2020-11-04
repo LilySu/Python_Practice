@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jim_Kwik_Memory_Recall/Week_1_1-20_PIE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,14 +32,14 @@
           <entry key="bubble_sort_Practice_September_25" value="2" />
           <entry key="ipynb" value="1" />
           <entry key="notes" value="1" />
-          <entry key="py" value="246" />
+          <entry key="py" value="248" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="246" />
+          <entry key="Python" value="248" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -48,13 +48,13 @@
           <entry key="bubble_sort_Practice_September_25" value="243" />
           <entry key="dummy" value="28" />
           <entry key="notes" value="307" />
-          <entry key="py" value="114955" />
+          <entry key="py" value="115889" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="335" />
-          <entry key="Python" value="113647" />
+          <entry key="Python" value="114581" />
           <entry key="Scratch" value="1551" />
         </counts>
       </usages-collector>
@@ -62,37 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_October_31.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6048">
-              <caret line="249" column="22" lean-forward="true" selection-start-line="249" selection-start-column="22" selection-end-line="249" selection-end-column="22" />
-              <folding>
-                <marker date="1604166908156" expanded="true" signature="20:25" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="94:99" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="479:824" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="861:866" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="1086:1239" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="1397:1402" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="1471:1476" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="1853:1858" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="2474:2596" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="2690:2695" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="3072:3077" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="3214:3219" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="3288:3293" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="3671:3676" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="3828:3833" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="3902:3907" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="4903:5023" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="5066:5071" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="5140:5145" ph="..." />
-                <marker date="1604166908156" expanded="true" signature="5522:5527" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,14 +76,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="1428">
               <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
               <folding>
                 <marker date="1604327773924" expanded="true" signature="23:28" ph="..." />
                 <marker date="1604327773924" expanded="true" signature="1180:1185" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jim_Kwik_Memory_Recall/Week_1_1-20_PIE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <marker date="1604465689561" expanded="true" signature="94:99" ph="..." />
+                <marker date="1604465689561" expanded="true" signature="476:481" ph="..." />
               </folding>
             </state>
           </provider>
@@ -166,15 +157,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_October_28.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_October_31.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-323">
@@ -221,8 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_September_29.py" />
-        <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_September_29.py" />
         <option value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_September_29_2.py" />
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_September_29.py" />
         <option value="$PROJECT_DIR$/Binary_Trees_Practice/Binary_Trees_Practice_September_30.py" />
@@ -272,12 +252,14 @@
         <option value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_2.py" />
         <option value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_1.py" />
         <option value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_2.py" />
+        <option value="$PROJECT_DIR$/Jim_Kwik_Memory_Recall/Week_1_1-20_PIE.py" />
+        <option value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1938" />
-    <option name="y" value="62" />
+    <option name="x" value="-2044" />
+    <option name="y" value="-3" />
     <option name="width" value="1936" />
     <option name="height" value="1053" />
   </component>
@@ -295,11 +277,6 @@
             <path>
               <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Binary_Search_Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -324,8 +301,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
       <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
       <recent name="C:\Users\lilyx\Python_Practice\Hash_Table_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Search" />
@@ -349,28 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Binary_Search_Tree_Practice_November_2">
-    <configuration name="Binary_Search_Tree_Practice_November_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Quick_Sort_Practice_November_3">
     <configuration name="Binary_Search_Tree_Practice_November_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -413,27 +369,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quick_Sort_Practice_November_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_Sort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Quick_Sort_Practice_November_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -455,20 +390,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Quick_Sort_Practice_November_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Week_1_1-20_PIE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jim_Kwik_Memory_Recall" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jim_Kwik_Memory_Recall/Week_1_1-20_PIE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Quick_Sort_Practice_November_1" />
-      <item itemvalue="Python.Binary_Search_Tree_Practice_November_1" />
       <item itemvalue="Python.Itertools_Groupby_Notes_November_1" />
       <item itemvalue="Python.Quick_Sort_Practice_November_2" />
       <item itemvalue="Python.Binary_Search_Tree_Practice_November_2" />
+      <item itemvalue="Python.Week_1_1-20_PIE" />
+      <item itemvalue="Python.Quick_Sort_Practice_November_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Quick_Sort_Practice_November_3" />
+        <item itemvalue="Python.Week_1_1-20_PIE" />
         <item itemvalue="Python.Binary_Search_Tree_Practice_November_2" />
         <item itemvalue="Python.Quick_Sort_Practice_November_2" />
         <item itemvalue="Python.Itertools_Groupby_Notes_November_1" />
-        <item itemvalue="Python.Binary_Search_Tree_Practice_November_1" />
-        <item itemvalue="Python.Quick_Sort_Practice_November_1" />
       </list>
     </recent_temporary>
   </component>
@@ -489,12 +466,12 @@
     <frame x="-1928" y="-8" width="1618" height="887" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32974684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32974684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25066313" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25066313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.403183" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -572,16 +549,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_21.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_30.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_Leetcode_Notes_August_17.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -954,11 +921,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="1428">
           <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
           <folding>
             <marker date="1604327773924" expanded="true" signature="23:28" ph="..." />
             <marker date="1604327773924" expanded="true" signature="1180:1185" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jim_Kwik_Memory_Recall/Week_1_1-20_PIE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <marker date="1604465689561" expanded="true" signature="94:99" ph="..." />
+            <marker date="1604465689561" expanded="true" signature="476:481" ph="..." />
           </folding>
         </state>
       </provider>
