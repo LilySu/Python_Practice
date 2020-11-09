@@ -3,8 +3,8 @@ def BinarySearch(nums, target):
         return -1
     left = 0
     right = len(nums) - 1
-    mid = (left + right) // 2
-    while left < right:
+    while left <= right:
+        mid = (left + right) // 2
         if nums[mid] == target:
             return mid
         elif nums[mid] < target:

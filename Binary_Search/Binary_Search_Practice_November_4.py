@@ -1,7 +1,7 @@
 def BinarySearch(nums, target):
     left = 0
     right = len(nums) - 1
-    while left < right:
+    while left <= right:
         mid = (left + right) // 2
         if nums[mid] == target:
             return mid
@@ -22,7 +22,7 @@ if __name__ == '__main__':
 def binary_search(elements, target):
     left = 0
     right = len(elements) - 1
-    while left < right:
+    while left <= right:
         mid = (left + right) // 2
         if elements[mid] == target:
             return mid
