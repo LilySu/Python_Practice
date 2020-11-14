@@ -8,7 +8,7 @@ class TreeNode:
         level = 0
         pointer = self.parent
         while pointer:
-            pointer = pointer.next
+            pointer = pointer.parent
             level += 1
         return level
 
