@@ -21,6 +21,6 @@ def quick_sort(elements, start, end):
         quick_sort(elements, pi + 1, end)
 
 if __name__ == "__main__":
-    elements = [42, 18, 93, 6, 71, 30]
+    elements = [834, 21, 59, 172, 2, 382]
     quick_sort(elements, 0, len(elements) - 1)
     print(elements)

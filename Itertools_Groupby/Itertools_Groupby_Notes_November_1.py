@@ -5,10 +5,11 @@ data1 = [100, 80, 80, 80, 80, 90, 90, 85, 85, 85]
 
 keys = []
 groups = []
-sorted_data1 = sorted(data1)
-for k, g, in itertools.groupby(sorted_data1):
+# sorted_data1 = sorted(data1)
+for k, g, in itertools.groupby(data1):
     keys.append(k)
     groups.append(list(g))
+
 
 print('groups', groups)
 print('keys', keys) # get just unique values
