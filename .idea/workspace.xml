@@ -1,86 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_November_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_November_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_November_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_19.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="933258272">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1634" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1634" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Concepts/Practice_November_21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2968">
-              <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Concepts/Practice_November_23.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <marker date="1606249822439" expanded="true" signature="84:89" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,47 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/OOP_Concepts/Practice_November_23.py" />
-        <option value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_5.py" />
-        <option value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_6.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1936" />
-    <option name="height" value="1053" />
-  </component>
   <component name="ProjectId" id="1kbRLW3QQpg6m3LQ0vLkhVAHEoh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP_Python_Deep_Dive_Notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -146,38 +43,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$USER_HOME$/fight-churn" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Insertion_Sort" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search" />
+      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
+      <recent name="C:\Users\lilyx\Python_Practice\Hash_Table_Practice" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Trees_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lilyx\Python_Practice\OOP_Python_Deep_Dive_Notes" />
-      <recent name="C:\Users\lilyx\Python_Practice\OOP_Concepts" />
-      <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
-      <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
-      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.2_Classes_6">
-    <configuration name="2_Classes_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Week_1_1-20_PIE">
+    <configuration name="Binary_Search_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_Classes_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Binary_Search_Tree_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice_November_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Insertion_Sort_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Insertion_Sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Concepts/Practice_November_21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_November_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice_November_23" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Quick_Sort_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_Sort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Concepts/Practice_November_23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Week_1_1-20_PIE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Week_1_1-20_PIE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,23 +168,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Practice_November_21" />
+      <item itemvalue="Python.Binary_Search_Tree_Practice_November_26" />
+      <item itemvalue="Python.Binary_Search_Practice_November_26" />
+      <item itemvalue="Python.Quick_Sort_Practice_November_26" />
+      <item itemvalue="Python.Insertion_Sort_Practice_November_26" />
       <item itemvalue="Python.Week_1_1-20_PIE" />
-      <item itemvalue="Python.Practice_November_23" />
-      <item itemvalue="Python.2_Classes_5" />
-      <item itemvalue="Python.2_Classes_6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_Classes_6" />
-        <item itemvalue="Python.2_Classes_5" />
-        <item itemvalue="Python.Practice_November_23" />
-        <item itemvalue="Python.Practice_November_21" />
         <item itemvalue="Python.Week_1_1-20_PIE" />
+        <item itemvalue="Python.Insertion_Sort_Practice_November_26" />
+        <item itemvalue="Python.Quick_Sort_Practice_November_26" />
+        <item itemvalue="Python.Binary_Search_Practice_November_26" />
+        <item itemvalue="Python.Binary_Search_Tree_Practice_November_26" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -313,29 +198,6 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1616" height="879" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25031686" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -348,21 +210,25 @@
       <screen x="-1920" y="0" width="1603" height="873" />
     </state>
     <state x="-1339" y="190" key="FileChooserDialogImpl/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606086732090" />
-    <state width="1581" height="166" key="GridCell.Tab.0.bottom" timestamp="1605971174726">
-      <screen x="0" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.bottom" timestamp="1606447658836">
+      <screen x="-1920" y="0" width="1603" height="873" />
     </state>
+    <state width="1565" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
     <state width="1581" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174726" />
-    <state width="1581" height="166" key="GridCell.Tab.0.center" timestamp="1605971174725">
-      <screen x="0" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.center" timestamp="1606447658836">
+      <screen x="-1920" y="0" width="1603" height="873" />
     </state>
+    <state width="1565" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
     <state width="1581" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174725" />
-    <state width="1581" height="166" key="GridCell.Tab.0.left" timestamp="1605971174725">
-      <screen x="0" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.left" timestamp="1606447658836">
+      <screen x="-1920" y="0" width="1603" height="873" />
     </state>
+    <state width="1565" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
     <state width="1581" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174725" />
-    <state width="1581" height="166" key="GridCell.Tab.0.right" timestamp="1605971174726">
-      <screen x="0" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.right" timestamp="1606447658836">
+      <screen x="-1920" y="0" width="1603" height="873" />
     </state>
+    <state width="1565" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
     <state width="1581" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174726" />
     <state x="-1332" y="100" key="SettingsEditor" timestamp="1605968712310">
       <screen x="-1920" y="0" width="1603" height="873" />
@@ -419,38 +285,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OOP_Concepts/Practice_November_21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2968">
-          <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Concepts/Practice_November_23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <marker date="1606249822439" expanded="true" signature="84:89" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
