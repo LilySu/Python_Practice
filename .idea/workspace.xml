@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_November_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_November_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_November_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_August_19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_19.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +54,28 @@
       <recent name="C:\Users\lilyx\Python_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Week_1_1-20_PIE">
+  <component name="RunManager" selected="Python.2_Classes_7">
+    <configuration name="2_Classes_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Binary_Search_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,27 +89,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_26.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Binary_Search_Tree_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_November_26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,19 +161,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binary_Search_Tree_Practice_November_26" />
       <item itemvalue="Python.Binary_Search_Practice_November_26" />
       <item itemvalue="Python.Quick_Sort_Practice_November_26" />
       <item itemvalue="Python.Insertion_Sort_Practice_November_26" />
       <item itemvalue="Python.Week_1_1-20_PIE" />
+      <item itemvalue="Python.2_Classes_7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_Classes_7" />
         <item itemvalue="Python.Week_1_1-20_PIE" />
         <item itemvalue="Python.Insertion_Sort_Practice_November_26" />
         <item itemvalue="Python.Quick_Sort_Practice_November_26" />
         <item itemvalue="Python.Binary_Search_Practice_November_26" />
-        <item itemvalue="Python.Binary_Search_Tree_Practice_November_26" />
       </list>
     </recent_temporary>
   </component>
@@ -210,26 +203,26 @@
       <screen x="-1920" y="0" width="1603" height="873" />
     </state>
     <state x="-1339" y="190" key="FileChooserDialogImpl/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606086732090" />
-    <state width="1565" height="166" key="GridCell.Tab.0.bottom" timestamp="1606447658836">
-      <screen x="-1920" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.bottom" timestamp="1606532470964">
+      <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1565" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
-    <state width="1581" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174726" />
-    <state width="1565" height="166" key="GridCell.Tab.0.center" timestamp="1606447658836">
-      <screen x="-1920" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812355" />
+    <state width="1565" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470964" />
+    <state width="1565" height="166" key="GridCell.Tab.0.center" timestamp="1606532470964">
+      <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1565" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
-    <state width="1581" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174725" />
-    <state width="1565" height="166" key="GridCell.Tab.0.left" timestamp="1606447658836">
-      <screen x="-1920" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812354" />
+    <state width="1565" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470964" />
+    <state width="1565" height="166" key="GridCell.Tab.0.left" timestamp="1606532470963">
+      <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1565" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
-    <state width="1581" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174725" />
-    <state width="1565" height="166" key="GridCell.Tab.0.right" timestamp="1606447658836">
-      <screen x="-1920" y="0" width="1603" height="873" />
+    <state width="1565" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812354" />
+    <state width="1565" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470963" />
+    <state width="1565" height="166" key="GridCell.Tab.0.right" timestamp="1606532470964">
+      <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1565" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447658836" />
-    <state width="1581" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605971174726" />
+    <state width="1565" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812355" />
+    <state width="1565" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470964" />
     <state x="-1332" y="100" key="SettingsEditor" timestamp="1605968712310">
       <screen x="-1920" y="0" width="1603" height="873" />
     </state>
