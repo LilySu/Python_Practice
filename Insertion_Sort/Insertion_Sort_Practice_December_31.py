@@ -3,6 +3,7 @@ def insertion_sort(elements):
         # assign an anchor for each
         anchor = elements[i]
         # assign j as the previous index
+        # this is the first item we start comparing as we start to increment left
         j = i - 1
         # while the last index is bigger or equal than zero
         # if the iterator is less than the previous element
