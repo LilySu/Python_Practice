@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_December_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_December_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/Hpeas_Pracitce_December_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_December_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_December_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_December_31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/scratchpad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/scratchpod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,26 +44,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Insertion_Sort" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Quick_Sort" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
-      <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
-      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search" />
-      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
-      <recent name="C:\Users\lilyx\Python_Practice\Hash_Table_Practice" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Trees_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
+      <recent name="C:\Users\lilyx\Python_Practice\Hash_Table_Practice" />
+      <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.2_Classes_7">
-    <configuration name="2_Classes_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Quick_Sort_Practice_December_31">
+    <configuration name="Binary_Search_Tree_Practice_December_31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search_Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python_Deep_Dive_Notes/2_Classes_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree_Practice_December_31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary_Search_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hash_Table_Practice_December_29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash_Table_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_November_26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_December_29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,28 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insertion_Sort_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Insertion_Sort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_November_26.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Quick_Sort_Practice_November_26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Quick_Sort_Practice_December_31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_December_31.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quick_Sort_Practice_November_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_November_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +169,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Binary_Search_Practice_November_26" />
-      <item itemvalue="Python.Quick_Sort_Practice_November_26" />
-      <item itemvalue="Python.Insertion_Sort_Practice_November_26" />
       <item itemvalue="Python.Week_1_1-20_PIE" />
-      <item itemvalue="Python.2_Classes_7" />
+      <item itemvalue="Python.Hash_Table_Practice_December_29" />
+      <item itemvalue="Python.Binary_Search_Tree_Practice_December_31" />
+      <item itemvalue="Python.Quick_Sort_Practice_December_31" />
+      <item itemvalue="Python.Quick_Sort_Practice_November_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_Classes_7" />
+        <item itemvalue="Python.Quick_Sort_Practice_December_31" />
+        <item itemvalue="Python.Quick_Sort_Practice_November_2" />
+        <item itemvalue="Python.Binary_Search_Tree_Practice_December_31" />
+        <item itemvalue="Python.Hash_Table_Practice_December_29" />
         <item itemvalue="Python.Week_1_1-20_PIE" />
-        <item itemvalue="Python.Insertion_Sort_Practice_November_26" />
-        <item itemvalue="Python.Quick_Sort_Practice_November_26" />
-        <item itemvalue="Python.Binary_Search_Practice_November_26" />
       </list>
     </recent_temporary>
   </component>
@@ -191,42 +199,49 @@
     </task>
     <servers />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
     <state x="-1377" y="108" key="#Plugins" timestamp="1605968590312">
       <screen x="-1920" y="0" width="1603" height="873" />
     </state>
     <state x="-1377" y="108" key="#Plugins/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605968590312" />
-    <state x="-1339" y="190" key="FileChooserDialogImpl" timestamp="1606086732090">
-      <screen x="-1920" y="0" width="1603" height="873" />
+    <state x="507" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606784857931">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="507" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606784857931" />
+    <state x="2501" y="190" key="FileChooserDialogImpl" timestamp="1607960494389">
+      <screen x="1920" y="0" width="1603" height="873" />
     </state>
     <state x="-1339" y="190" key="FileChooserDialogImpl/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606086732090" />
-    <state width="1565" height="166" key="GridCell.Tab.0.bottom" timestamp="1606532470964">
+    <state x="2501" y="190" key="FileChooserDialogImpl/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@1920.0.1603.873" timestamp="1607960494389" />
+    <state width="1568" height="176" key="GridCell.Tab.0.bottom" timestamp="1609473596959">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1565" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812355" />
-    <state width="1565" height="166" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470964" />
-    <state width="1565" height="166" key="GridCell.Tab.0.center" timestamp="1606532470964">
+    <state width="1565" height="350" key="GridCell.Tab.0.bottom/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606789778859" />
+    <state width="1568" height="176" key="GridCell.Tab.0.bottom/0.0.1603.873@0.0.1603.873" timestamp="1609473596959" />
+    <state width="1568" height="176" key="GridCell.Tab.0.center" timestamp="1609473596959">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1565" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812354" />
-    <state width="1565" height="166" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470964" />
-    <state width="1565" height="166" key="GridCell.Tab.0.left" timestamp="1606532470963">
+    <state width="1565" height="350" key="GridCell.Tab.0.center/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606789778859" />
+    <state width="1568" height="176" key="GridCell.Tab.0.center/0.0.1603.873@0.0.1603.873" timestamp="1609473596959" />
+    <state width="1568" height="176" key="GridCell.Tab.0.left" timestamp="1609473596959">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1565" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812354" />
-    <state width="1565" height="166" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470963" />
-    <state width="1565" height="166" key="GridCell.Tab.0.right" timestamp="1606532470964">
+    <state width="1565" height="350" key="GridCell.Tab.0.left/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606789778859" />
+    <state width="1568" height="176" key="GridCell.Tab.0.left/0.0.1603.873@0.0.1603.873" timestamp="1609473596959" />
+    <state width="1568" height="176" key="GridCell.Tab.0.right" timestamp="1609473596959">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1565" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@-1920.0.1603.873" timestamp="1606447812355" />
-    <state width="1565" height="166" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606532470964" />
-    <state x="-1332" y="100" key="SettingsEditor" timestamp="1605968712310">
-      <screen x="-1920" y="0" width="1603" height="873" />
+    <state width="1565" height="350" key="GridCell.Tab.0.right/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1606789778859" />
+    <state width="1568" height="176" key="GridCell.Tab.0.right/0.0.1603.873@0.0.1603.873" timestamp="1609473596959" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1609428668962">
+      <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="-1332" y="100" key="SettingsEditor/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605968712310" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1603.873@0.0.1603.873" timestamp="1609428668962" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
