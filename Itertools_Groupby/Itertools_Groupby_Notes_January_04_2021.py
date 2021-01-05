@@ -9,7 +9,7 @@ new_list = []
 new_list = [i[0] for i in groupby(elements)]
 
 from operator import itemgetter
-new_mapped = map(itemgetter(0), groupby(elements))
+new_mapped = list(map(itemgetter(0), groupby(elements)))
 
 
 print(new_list)
