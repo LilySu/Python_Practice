@@ -24,10 +24,33 @@ from itertools import groupby
 # print(list(id(itr) for itr in iters))
 
 
-s = [1,2,3,4,5,6,7,8,9]
-n = 3
-my_list=[[1,2,3],[4,5,6],[7,8,9,10]]
-print(zip(*my_list))
+# s = [1,2,3,4,5,6,7,8,9]
+# n = 3
+# my_list=[[1,2,3],[4,5,6],[7,8,9,10]]
+# print(zip(*my_list))
+#
+# # when an iterator yields (= returns) an item, you can imagine this item as "consumed".
+# # So the next time the iterator is called, it yields the next "unconsumed" item.
 
-# when an iterator yields (= returns) an item, you can imagine this item as "consumed".
-# So the next time the iterator is called, it yields the next "unconsumed" item.
+
+# elements = [1, 2,2,3,3, 3, 4, 5, 6, 7, 8, 9, 10]
+#
+# print([i[0] for i in groupby(elements)])
+
+
+s = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+# def grouper(s):
+#     iters = [iter(s)] * 3
+#     return zip(*iters)
+# print(list(grouper(s)))
+
+iters = [iter(s)] * 3
+print(list(zip(*iters)))
+
+import itertools as it
+
+x = ['a', 'b', 'c']
+y = [1, 2, 3, 4, 5]
+print(list(zip(x, y)))
+print(list(it.zip_longest(x, y)))
