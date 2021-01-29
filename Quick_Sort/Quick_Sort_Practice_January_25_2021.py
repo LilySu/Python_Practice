@@ -11,7 +11,7 @@ def partition(elements, start, end):
             end -= 1
         if start < end:
             swap(start, end, elements)
-    swap(pivot_index, end, elements)
+    Quick_Sort_Practice_January_25_2021.py    swap(pivot_index, end, elements)
     return end
 
 def quickSort(elements, start, end):
