@@ -5,22 +5,22 @@ def partition(elements, start, end):
     pivot_index = start
     pivot = elements[pivot_index]
     while start < end:
-        while start < len(elements) and elements[start] <= pivot:
+        while start < len(elements) and pivot >= elements[start]:
             start += 1
-        while elements[end] > pivot:
+        while pivot < elements[end]:
             end -= 1
         if start < end:
             swap(start, end, elements)
     swap(pivot_index, end, elements)
     return end
 
-def quickSort(elements, start, end):
+def quick_sort(elements, start, end):
     if start < end:
         pi = partition(elements, start, end)
-        quickSort(elements, start, pi - 1)
-        quickSort(elements, pi + 1, end)
+        quick_sort(elements, start, pi - 1)
+        quick_sort(elements, pi + 1, end)
 
 if __name__ == '__main__':
-    elements = [53, 29, 83, 14, 70]
-    quickSort(elements, 0, len(elements) - 1)
+    elements = [68, 27, 4, 55, 3, 1]
+    quick_sort(elements, 0, len(elements) - 1)
     print(elements)
