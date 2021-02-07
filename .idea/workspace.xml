@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_January_30_2021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_January_30_2021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_January_30_2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Assessment_Learnings.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_01_CASE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_02_SUBQUERIES.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_03_SUBQUERIES_CORRELATED.SQL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sql_Notes_February_02_2021.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_January_25_2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_January_25_2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/sql_practice_Sept_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sql/sql_practice_Sept_1.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Insertion_Sort" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -258,11 +260,11 @@
     <state width="1574" height="177" key="GridCell.Tab.0.right/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@3840.0.1603.873" timestamp="1611970326357" />
     <state width="1568" height="176" key="GridCell.Tab.0.right/3840.0.1603.902/0.0.1603.902/1920.0.1603.902@1920.0.1603.902" timestamp="1609856960678" />
     <state width="1568" height="176" key="GridCell.Tab.0.right/3840.0.1603.902/1920.0.1603.902/0.0.1603.902@1920.0.1603.902" timestamp="1609791850249" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1609428668962">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1612130261255">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="-1332" y="100" key="SettingsEditor/0.0.1603.873/-1920.0.1603.873@0.0.1603.873" timestamp="1605968712310" />
-    <state x="0" y="0" key="SettingsEditor/0.0.1603.873@0.0.1603.873" timestamp="1609428668962" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1603.873@0.0.1603.873" timestamp="1612130261255" />
     <state x="2300" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1611151285434">
       <screen x="1920" y="0" width="1603" height="873" />
     </state>
