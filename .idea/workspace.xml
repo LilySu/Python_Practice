@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Assessment_Learnings.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_01_CASE.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_02_SUBQUERIES.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_03_SUBQUERIES_CORRELATED.SQL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/sql_Notes_February_02_2021.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/sql_practice_Sept_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sql/sql_practice_Sept_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_03_SUBQUERIES_CORRELATED.SQL" beforeDir="false" afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_03_SUBQUERIES_CORRELATED.SQL" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
