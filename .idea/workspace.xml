@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Intermediate_05_CTE.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/DataCamp_Storage/intermediate_04_CTE.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/intermediate_04_CTE.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
