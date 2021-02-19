@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/DataCamp_Storage/intermediate_04_CTE.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/intermediate_04_CTE.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,11 +155,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Insertion_Sort_Practice_January_30_2021" />
       <item itemvalue="Python.Itertools_Groupby_Notes_January_20_2021" />
       <item itemvalue="Python.Itertools_Groupby_Notes_January_30_2021" />
-      <item itemvalue="Python.Quick_Sort_Practice_January_30_2021" />
-      <item itemvalue="Python.Insertion_Sort_Practice_January_30_2021" />
       <item itemvalue="Python.Linked_List_Practice_February_13_2021" />
+      <item itemvalue="Python.Quick_Sort_Practice_January_30_2021" />
     </list>
     <recent_temporary>
       <list>

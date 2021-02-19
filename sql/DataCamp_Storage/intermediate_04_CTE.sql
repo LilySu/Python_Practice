@@ -100,3 +100,54 @@ SELECT
     m.home_goal,
     m.away_goal
 FROM match AS m;
+
+
+
+-- Declare the home CTE
+WITH home AS (
+	SELECT m.id, t.team_long_name AS hometeam
+	FROM match AS m
+	LEFT JOIN team AS t
+	ON m.hometeam_id = t.team_api_id)
+-- Select everything from home
+SELECT *
+FROM home;
+
+
+WITH home AS (
+  SELECT m.id, m.date,
+  		 t.team_long_name AS hometeam, m.home_goal
+  FROM match AS m
+  LEFT JOIN team AS t
+  ON m.hometeam_id = t.team_api_id),
+-- Declare and set up the away CTE
+away AS (
+  SELECT m.id, m.date,
+  		 t.team_long_name AS awayteam, m.away_goal
+  FROM match AS m
+  LEFT JOIN team AS t
+  ON m.awayteam_id = t.team_api_id)
+-- Select date, home_goal, and away_goal
+SELECT
+	home.date,
+    home.hometeam,
+    away.awayteam,
+    home.home_goal,
+    away.away_goal
+-- Join away and home on the id column
+FROM home
+INNER JOIN away
+ON home.id = away.id;
+
+
+SELECT
+	-- Select the id, country name, season, home, and away goals
+	m.id,
+    c.name AS country,
+    m.season,
+	m.home_goal,
+	m.away_goal,
+    -- Use a window to include the aggregate average in each row
+	AVG(m.home_goal + m.away_goal) OVER() AS overall_avg
+FROM match AS m
+LEFT JOIN country AS c ON m.country_id = c.id;
