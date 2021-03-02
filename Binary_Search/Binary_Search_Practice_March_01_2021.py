@@ -3,10 +3,10 @@ def binary_search(nums, target):
     right = len(nums) - 1
     while left <= right:
         mid = (left + right) // 2
-        if target[mid] == target:
+        if nums[mid] == target:
             return mid
-        elif target[mid] < target:
+        elif nums[mid] < target:
             left = mid + 1
-        elif target[mid] > target:
+        else:
             right = mid - 1
-    return -1
+    return - 1

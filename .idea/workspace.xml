@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/Over_Notes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_March_01_2021.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/DataCamp_Storage/intermediate_04_CTE.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/DataCamp_Storage/intermediate_04_CTE.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_February_26_2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_February_26_2021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Linked_List_Practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Binary_Search" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
@@ -42,11 +42,11 @@
       <recent name="C:\Users\lilyx\Python_Practice" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search" />
       <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
       <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
       <recent name="C:\Users\lilyx\Python_Practice\Itertools_Groupby" />
-      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Linked_List_Practice_February_13_2021">
