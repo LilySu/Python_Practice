@@ -28,6 +28,7 @@ class Graph(abc.ABC):
         pass
 
 class AdjacencyMatrixGraph(Graph):
+    
     def __init__(self, numVertices, directed=False):
         super(AdjacencyMatrixGraph, self).__init__(numVertices, directed)
 
