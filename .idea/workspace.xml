@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="764a9aa2-09f2-4f63-bb26-82d170c9e6ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hash_Table_Practice/Hash_Table_Practice_March_26_2021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_March_17_2021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_April_02_2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_April_17_2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_April_17_2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_April_17_2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_April_17_2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_April_17_2021.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_January_08_2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_January_08_2021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +35,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Linked_List_Practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Insertion_Sort" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Itertools_Groupby" />
+      <recent name="C:\Users\lilyx\Python_Practice\Binary_Search" />
+      <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
+      <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Search_Tree" />
       <recent name="C:\Users\lilyx\Python_Practice\Binary_Trees_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
       <recent name="C:\Users\lilyx\Python_Practice" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lilyx\Python_Practice\Linked_List_Practice" />
-      <recent name="C:\Users\lilyx\Python_Practice\Hash_Table_Practice" />
-      <recent name="C:\Users\lilyx\Python_Practice\Insertion_Sort" />
-      <recent name="C:\Users\lilyx\Python_Practice\Quick_Sort" />
-      <recent name="C:\Users\lilyx\Python_Practice\Itertools_Groupby" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Itertools_Groupby_Notes_March_03_2021">
-    <configuration name="Insertion_Sort_Practice_March_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Insertion_Sort_Practice_January_30_2021">
+    <configuration name="Binary_Search_Practice_April_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary_Search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_April_17_2021.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Insertion_Sort_Practice_January_30_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_March_17_2021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_January_30_2021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Itertools_Groupby_Notes_January_20_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Itertools_Groupby_Notes_April_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_January_20_2021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_April_17_2021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Itertools_Groupby_Notes_March_03_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Itertools_Groupby_Notes_January_08_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_March_03_2021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_January_08_2021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Itertools_Groupby_Notes_November_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Linked_List_Practice_April_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,32 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Itertools_Groupby" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_List_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_November_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Quick_Sort_Practice_March_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_Sort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_Sort/Quick_Sort_Practice_March_17_2021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_April_17_2021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Quick_Sort_Practice_March_17_2021" />
-      <item itemvalue="Python.Insertion_Sort_Practice_March_17_2021" />
-      <item itemvalue="Python.Itertools_Groupby_Notes_January_20_2021" />
-      <item itemvalue="Python.Itertools_Groupby_Notes_November_1" />
-      <item itemvalue="Python.Itertools_Groupby_Notes_March_03_2021" />
+      <item itemvalue="Python.Linked_List_Practice_April_17_2021" />
+      <item itemvalue="Python.Binary_Search_Practice_April_17_2021" />
+      <item itemvalue="Python.Itertools_Groupby_Notes_April_17_2021" />
+      <item itemvalue="Python.Itertools_Groupby_Notes_January_08_2021" />
+      <item itemvalue="Python.Insertion_Sort_Practice_January_30_2021" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Itertools_Groupby_Notes_March_03_2021" />
-        <item itemvalue="Python.Itertools_Groupby_Notes_November_1" />
-        <item itemvalue="Python.Itertools_Groupby_Notes_January_20_2021" />
-        <item itemvalue="Python.Insertion_Sort_Practice_March_17_2021" />
-        <item itemvalue="Python.Quick_Sort_Practice_March_17_2021" />
+        <item itemvalue="Python.Insertion_Sort_Practice_January_30_2021" />
+        <item itemvalue="Python.Itertools_Groupby_Notes_January_08_2021" />
+        <item itemvalue="Python.Itertools_Groupby_Notes_April_17_2021" />
+        <item itemvalue="Python.Binary_Search_Practice_April_17_2021" />
+        <item itemvalue="Python.Linked_List_Practice_April_17_2021" />
       </list>
     </recent_temporary>
   </component>
@@ -188,69 +191,58 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="207" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1609877036912">
-      <screen x="0" y="0" width="1603" height="902" />
-    </state>
-    <state x="414" y="207" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1603.902@0.0.1603.902" timestamp="1609877036912" />
     <state x="-3068" y="113" key="FileChooserDialogImpl" timestamp="1615072300521">
       <screen x="-3840" y="0" width="1603" height="873" />
     </state>
     <state x="-3068" y="113" key="FileChooserDialogImpl/-1920.0.1603.873/-3840.0.1603.873/0.0.1603.873@0.0.1603.873" timestamp="1615072300521" />
-    <state width="1574" height="175" key="GridCell.Tab.0.bottom" timestamp="1616725691379">
+    <state width="1574" height="196" key="GridCell.Tab.0.bottom" timestamp="1618702670687">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1574" height="175" key="GridCell.Tab.0.bottom/-1920.0.1603.873/-3840.0.1603.873/0.0.1603.873@0.0.1603.873" timestamp="1615069313174" />
     <state width="1574" height="142" key="GridCell.Tab.0.bottom/0.0.1603.753@0.0.1603.753" timestamp="1612067990443" />
-    <state width="1574" height="175" key="GridCell.Tab.0.bottom/0.0.1603.873@0.0.1603.873" timestamp="1616725691379" />
+    <state width="1574" height="196" key="GridCell.Tab.0.bottom/0.0.1603.873@0.0.1603.873" timestamp="1618702670687" />
     <state width="1572" height="174" key="GridCell.Tab.0.bottom/1920.0.1603.873/0.0.1603.873/3840.0.1603.873@1920.0.1603.873" timestamp="1610671720182" />
-    <state width="1568" height="167" key="GridCell.Tab.0.bottom/3840.0.1603.873/0.0.1603.873/1920.0.1603.873@1920.0.1603.873" timestamp="1609945227614" />
     <state width="1574" height="177" key="GridCell.Tab.0.bottom/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@1920.0.1603.873" timestamp="1611930249086" />
     <state width="1574" height="177" key="GridCell.Tab.0.bottom/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@3840.0.1603.873" timestamp="1611970326358" />
-    <state width="1568" height="176" key="GridCell.Tab.0.bottom/3840.0.1603.902/0.0.1603.902/1920.0.1603.902@1920.0.1603.902" timestamp="1609856960678" />
-    <state width="1568" height="176" key="GridCell.Tab.0.bottom/3840.0.1603.902/1920.0.1603.902/0.0.1603.902@1920.0.1603.902" timestamp="1609791850249" />
-    <state width="1574" height="175" key="GridCell.Tab.0.center" timestamp="1616725691379">
+    <state width="1574" height="196" key="GridCell.Tab.0.center" timestamp="1618702670687">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1574" height="175" key="GridCell.Tab.0.center/-1920.0.1603.873/-3840.0.1603.873/0.0.1603.873@0.0.1603.873" timestamp="1615069313174" />
     <state width="1574" height="142" key="GridCell.Tab.0.center/0.0.1603.753@0.0.1603.753" timestamp="1612067990442" />
-    <state width="1574" height="175" key="GridCell.Tab.0.center/0.0.1603.873@0.0.1603.873" timestamp="1616725691379" />
+    <state width="1574" height="196" key="GridCell.Tab.0.center/0.0.1603.873@0.0.1603.873" timestamp="1618702670687" />
     <state width="1572" height="174" key="GridCell.Tab.0.center/1920.0.1603.873/0.0.1603.873/3840.0.1603.873@1920.0.1603.873" timestamp="1610671720182" />
-    <state width="1568" height="167" key="GridCell.Tab.0.center/3840.0.1603.873/0.0.1603.873/1920.0.1603.873@1920.0.1603.873" timestamp="1609945227614" />
     <state width="1574" height="177" key="GridCell.Tab.0.center/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@1920.0.1603.873" timestamp="1611930249086" />
     <state width="1574" height="177" key="GridCell.Tab.0.center/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@3840.0.1603.873" timestamp="1611970326356" />
-    <state width="1568" height="176" key="GridCell.Tab.0.center/3840.0.1603.902/0.0.1603.902/1920.0.1603.902@1920.0.1603.902" timestamp="1609856960678" />
-    <state width="1568" height="176" key="GridCell.Tab.0.center/3840.0.1603.902/1920.0.1603.902/0.0.1603.902@1920.0.1603.902" timestamp="1609791850249" />
-    <state width="1574" height="175" key="GridCell.Tab.0.left" timestamp="1616725691379">
+    <state width="1574" height="196" key="GridCell.Tab.0.left" timestamp="1618702670687">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1574" height="175" key="GridCell.Tab.0.left/-1920.0.1603.873/-3840.0.1603.873/0.0.1603.873@0.0.1603.873" timestamp="1615069313174" />
     <state width="1574" height="142" key="GridCell.Tab.0.left/0.0.1603.753@0.0.1603.753" timestamp="1612067990442" />
-    <state width="1574" height="175" key="GridCell.Tab.0.left/0.0.1603.873@0.0.1603.873" timestamp="1616725691379" />
+    <state width="1574" height="196" key="GridCell.Tab.0.left/0.0.1603.873@0.0.1603.873" timestamp="1618702670687" />
     <state width="1572" height="174" key="GridCell.Tab.0.left/1920.0.1603.873/0.0.1603.873/3840.0.1603.873@1920.0.1603.873" timestamp="1610671720182" />
-    <state width="1568" height="167" key="GridCell.Tab.0.left/3840.0.1603.873/0.0.1603.873/1920.0.1603.873@1920.0.1603.873" timestamp="1609945227614" />
     <state width="1574" height="177" key="GridCell.Tab.0.left/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@1920.0.1603.873" timestamp="1611930249086" />
     <state width="1574" height="177" key="GridCell.Tab.0.left/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@3840.0.1603.873" timestamp="1611970326356" />
-    <state width="1568" height="176" key="GridCell.Tab.0.left/3840.0.1603.902/0.0.1603.902/1920.0.1603.902@1920.0.1603.902" timestamp="1609856960678" />
-    <state width="1568" height="176" key="GridCell.Tab.0.left/3840.0.1603.902/1920.0.1603.902/0.0.1603.902@1920.0.1603.902" timestamp="1609791850249" />
-    <state width="1574" height="175" key="GridCell.Tab.0.right" timestamp="1616725691379">
+    <state width="1574" height="196" key="GridCell.Tab.0.right" timestamp="1618702670687">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state width="1574" height="175" key="GridCell.Tab.0.right/-1920.0.1603.873/-3840.0.1603.873/0.0.1603.873@0.0.1603.873" timestamp="1615069313174" />
     <state width="1574" height="142" key="GridCell.Tab.0.right/0.0.1603.753@0.0.1603.753" timestamp="1612067990442" />
-    <state width="1574" height="175" key="GridCell.Tab.0.right/0.0.1603.873@0.0.1603.873" timestamp="1616725691379" />
+    <state width="1574" height="196" key="GridCell.Tab.0.right/0.0.1603.873@0.0.1603.873" timestamp="1618702670687" />
     <state width="1572" height="174" key="GridCell.Tab.0.right/1920.0.1603.873/0.0.1603.873/3840.0.1603.873@1920.0.1603.873" timestamp="1610671720182" />
-    <state width="1568" height="167" key="GridCell.Tab.0.right/3840.0.1603.873/0.0.1603.873/1920.0.1603.873@1920.0.1603.873" timestamp="1609945227614" />
     <state width="1574" height="177" key="GridCell.Tab.0.right/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@1920.0.1603.873" timestamp="1611930249086" />
     <state width="1574" height="177" key="GridCell.Tab.0.right/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@3840.0.1603.873" timestamp="1611970326357" />
-    <state width="1568" height="176" key="GridCell.Tab.0.right/3840.0.1603.902/0.0.1603.902/1920.0.1603.902@1920.0.1603.902" timestamp="1609856960678" />
-    <state width="1568" height="176" key="GridCell.Tab.0.right/3840.0.1603.902/1920.0.1603.902/0.0.1603.902@1920.0.1603.902" timestamp="1609791850249" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1612130261255">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1603.873@0.0.1603.873" timestamp="1612130261255" />
-    <state x="2300" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1611151285434">
-      <screen x="1920" y="0" width="1603" height="873" />
+    <state x="597" y="184" key="refactoring.ChangeSignatureDialog" timestamp="1618681564857">
+      <screen x="0" y="0" width="1603" height="873" />
     </state>
+    <state x="597" y="184" key="refactoring.ChangeSignatureDialog/0.0.1603.873@0.0.1603.873" timestamp="1618681564857" />
+    <state x="380" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1618700597340">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="380" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1603.873@0.0.1603.873" timestamp="1618700597340" />
     <state x="2300" y="0" width="840" height="1034" key="search.everywhere.popup/3840.0.1603.873/1920.0.1603.873/0.0.1603.873@1920.0.1603.873" timestamp="1611151285434" />
   </component>
   <component name="XDebuggerManager">
@@ -300,6 +292,11 @@
           <url>file://$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_November_13.py</url>
           <line>1</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Itertools_Groupby/Itertools_Groupby_Notes_January_08_2021.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
