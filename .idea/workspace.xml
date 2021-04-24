@@ -53,7 +53,7 @@
       <recent name="C:\Users\lilyx\Python_Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Insertion_Sort_Practice_January_30_2021">
+  <component name="RunManager" selected="Python.Insertion_Sort_Practice_April_17_2021">
     <configuration name="Binary_Search_Practice_April_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +67,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary_Search/Binary_Search_Practice_April_17_2021.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Insertion_Sort_Practice_April_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Insertion_Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Insertion_Sort/Insertion_Sort_Practice_April_17_2021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,41 +159,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Linked_List_Practice_April_17_2021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_List_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_List_Practice/Linked_List_Practice_April_17_2021.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Linked_List_Practice_April_17_2021" />
       <item itemvalue="Python.Binary_Search_Practice_April_17_2021" />
       <item itemvalue="Python.Itertools_Groupby_Notes_April_17_2021" />
       <item itemvalue="Python.Itertools_Groupby_Notes_January_08_2021" />
       <item itemvalue="Python.Insertion_Sort_Practice_January_30_2021" />
+      <item itemvalue="Python.Insertion_Sort_Practice_April_17_2021" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Insertion_Sort_Practice_April_17_2021" />
         <item itemvalue="Python.Insertion_Sort_Practice_January_30_2021" />
         <item itemvalue="Python.Itertools_Groupby_Notes_January_08_2021" />
         <item itemvalue="Python.Itertools_Groupby_Notes_April_17_2021" />
         <item itemvalue="Python.Binary_Search_Practice_April_17_2021" />
-        <item itemvalue="Python.Linked_List_Practice_April_17_2021" />
       </list>
     </recent_temporary>
   </component>
